@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋Hi there, I'm Štefan Granatir
+
+🎓 Computer Engineering student | 🤖 Embedded & Robotics enthusiast | 🔐 Cybersecurity curious
 
 <!--
 **stefangranatir/stefangranatir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
