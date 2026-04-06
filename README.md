@@ -12,6 +12,8 @@ At the moment, I'm working as a student embedded software developer at @Soldered
 
 Recently, I've been developing **ProjectModulus**, which pushed me deeper into writing custom drivers, working with Raspberry Pi systems, and understanding the OpenGL rendering pipeline.
 
+---
+
 ### Tech Toolbox
 #### Languages
 
@@ -22,7 +24,10 @@ C, C++, C#, Python, SQL, HTML, CSS
 Arduino IDE, Raspberry Pi, VS Code, Visual Studio, CLion, PyCharm, Thonny. XAMPP, Fusion 360, Git GitHub
 
 #### Frameworks & Libraries
+
 OpenGL, GLFW, Glad, NumPy, POSIX, Pigpio, Inkplate
+
+---
 
 ### Currently Exploring
 
@@ -31,6 +36,7 @@ OpenGL, GLFW, Glad, NumPy, POSIX, Pigpio, Inkplate
 - Fundementals of electronic circuit design
 - Designing functional mechanisms for 3D printing
 
+---
 
 ### Projects
 
